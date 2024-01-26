@@ -1,7 +1,7 @@
 {
 	"name": "vgnyhetsquiz",
 	"version": "0.0.1",
-	"main": "src/app.html",
+	"main": "index.html",
 	"logseq": {},
 	"private": true,
 	"scripts": {
