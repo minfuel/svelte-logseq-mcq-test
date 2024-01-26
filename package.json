@@ -1,6 +1,8 @@
 {
 	"name": "vgnyhetsquiz",
 	"version": "0.0.1",
+	"main": "src/app.html",
+	"logseq": {},
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -31,5 +33,8 @@
 		"typescript": "^5.0.2",
 		"vite": "^4.2.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@logseq/libs": "^0.0.17"
+	}
 }

@@ -1,3 +1,9 @@
+<script>
+	import "@logseq/libs"
+	logseq.ready(() => {
+		logseq.UI.showMsg("Hello world logseq");
+	}).catch(console.error);
+</script>
 <section class="px-2 py-2">
 	<h1 class="pt-8 text-3xl font-bold pb-6">VG NyhetsQuiz</h1>
 	<div class="grid grid-cols-2 gap-4">
